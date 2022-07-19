@@ -3,7 +3,9 @@ body {
     flex-direction: column;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
+    cursor:url('https://lh3.googleusercontent.com/5033XnhsfuSCAwwdf-Wgt4vRpH9KDQC7jARms2-1OOXYsA5Qt51oEvOD0BKLTKl5b9Ca0bD6D9j-Sp3Sp9Gqz7WWiw=w128-h128-e365-rj-sc0x00ffffff'), auto
 }
+
 
 .header {
     display: flex;
