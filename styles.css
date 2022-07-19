@@ -119,7 +119,7 @@ body {
         background-color: #3882F6;
         border-color: #3882F6;
         border-style: solid;
-        border-radius: 25px;
+        border-radius: 15px;
         margin-left: 50px;
         width: 250%;
         display: flex;
@@ -127,9 +127,19 @@ body {
         justify-content: space-around;
         align-items: center;
         color: white;
+        padding-top: 25px;
+        padding-bottom: 25px;
 
+    } 
 
-    }  
+    .action-text h1{
+        margin-bottom: 0px;
+        font-size:24px;
+    }
+
+    .action-text p{
+        margin-top: 3px;
+    }
 
     .action-button button {
         background-color: #3882F6;
